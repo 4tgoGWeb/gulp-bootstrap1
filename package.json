@@ -1,0 +1,17 @@
+{
+  "name": "gulp-bootstrap-temp",
+  "version": "1.0.0",
+  "description": "Clean Bootstrap Gulp and BrowserSync template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jude Hudson",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
